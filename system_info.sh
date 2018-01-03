@@ -1,6 +1,6 @@
 #!/bin/bash
   
-date=`date "+%F %T"`
+date=`date "+%F %T %A"`
 head="System information as of: $date"
   
 kernel=`uname -r`
